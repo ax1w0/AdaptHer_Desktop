@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u043A\\AdaptHER \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA64AAD-0526-4A1D-97E8-F9D30A003056}|AdaptHER\\AdaptHER.csproj|f:\\\u043A\\adapther \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\adapther\\ui\\views\\mainwnd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA64AAD-0526-4A1D-97E8-F9D30A003056}|AdaptHER\\AdaptHER.csproj|solutionrelative:adapther\\ui\\views\\mainwnd.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA64AAD-0526-4A1D-97E8-F9D30A003056}|AdaptHER\\AdaptHER.csproj|f:\\\u043A\\adapther \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\adapther\\ui\\views\\mainwnd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DA64AAD-0526-4A1D-97E8-F9D30A003056}|AdaptHER\\AdaptHER.csproj|solutionrelative:adapther\\ui\\views\\mainwnd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:323948898:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWnd.xaml.cs",
+              "DocumentMoniker": "F:\\\u043A\\AdaptHER \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\AdaptHER\\UI\\Views\\MainWnd.xaml.cs",
+              "RelativeDocumentMoniker": "AdaptHER\\UI\\Views\\MainWnd.xaml.cs",
+              "ToolTip": "F:\\\u043A\\AdaptHER \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\AdaptHER\\UI\\Views\\MainWnd.xaml.cs",
+              "RelativeToolTip": "AdaptHER\\UI\\Views\\MainWnd.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T12:03:48.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWnd.xaml",
+              "DocumentMoniker": "F:\\\u043A\\AdaptHER \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\AdaptHER\\UI\\Views\\MainWnd.xaml",
+              "RelativeDocumentMoniker": "AdaptHER\\UI\\Views\\MainWnd.xaml",
+              "ToolTip": "F:\\\u043A\\AdaptHER \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\AdaptHER\\UI\\Views\\MainWnd.xaml",
+              "RelativeToolTip": "AdaptHER\\UI\\Views\\MainWnd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-01T12:02:55.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

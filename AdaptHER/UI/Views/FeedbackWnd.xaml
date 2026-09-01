@@ -1,0 +1,22 @@
+﻿<Window x:Class="AdaptHER.UI.Views.FeedbackWnd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdaptHER.UI.Views"
+        Title="Message"
+        WindowStyle="None" MaxWidth="500" MaxHeight="70"
+        Background="Transparent" AllowsTransparency="True"
+        ResizeMode="NoResize">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="60"/>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="0" Background="{DynamicResource LightGreenColor}" CornerRadius="7" MouseLeftButtonDown="Border_MouseLeftButtonDown" >
+            <TextBlock VerticalAlignment="Center" x:Name="MessageText" TextWrapping="Wrap" TextAlignment="Left" Padding="15 0"/>
+        </Border>
+        <Button Grid.Column="1" x:Name="CloseBtn" Margin="15 0" VerticalAlignment="Top" Style="{DynamicResource NavViewButtonsStyle}" Content="x" Click="CloseBtn_Click" Tag="IsCloseButton"/>
+    </Grid>
+
+</Window>

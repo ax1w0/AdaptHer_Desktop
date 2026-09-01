@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptHER", "AdaptHER\AdaptHER.csproj", "{8DA64AAD-0526-4A1D-97E8-F9D30A003056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptHER.Tests", "AdaptHER.Tests\AdaptHER.Tests.csproj", "{B200948D-36FE-4D2F-B053-34CA6ACEAD2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA64AAD-0526-4A1D-97E8-F9D30A003056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA64AAD-0526-4A1D-97E8-F9D30A003056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA64AAD-0526-4A1D-97E8-F9D30A003056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA64AAD-0526-4A1D-97E8-F9D30A003056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B200948D-36FE-4D2F-B053-34CA6ACEAD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B200948D-36FE-4D2F-B053-34CA6ACEAD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B200948D-36FE-4D2F-B053-34CA6ACEAD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B200948D-36FE-4D2F-B053-34CA6ACEAD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741008DA-DF9A-4358-8ED4-F40C9B3A1FD4}
+	EndGlobalSection
+EndGlobal

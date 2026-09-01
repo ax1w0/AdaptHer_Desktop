@@ -1,0 +1,422 @@
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\AdaptHER.exe.config
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\AdaptHER.exe
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\AdaptHER.pdb
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\BouncyCastle.Cryptography.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\itextsharp.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\LiveCharts.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\LiveCharts.Wpf.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Options.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Identity.Client.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\MiniExcel.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Newtonsoft.Json.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Buffers.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Collections.Immutable.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.ComponentModel.Annotations.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Memory.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Numerics.Vectors.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\BouncyCastle.Cryptography.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\itextsharp.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\LiveCharts.pdb
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\LiveCharts.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\LiveCharts.Wpf.pdb
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\LiveCharts.Wpf.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Options.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.Identity.Client.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\Newtonsoft.Json.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Buffers.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Collections.Immutable.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Memory.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Numerics.Vectors.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\курсач\AdaptHER\AdaptHER\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\AdaptHER.csproj.AssemblyReference.cache
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Styles\MainStyle.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Styles\Palette.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Pages\AdaptModulesPg.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Pages\AdaptProgramsPg.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Pages\EventsAnalysisPg.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Pages\MainPg.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\UC\ModuleView.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\UC\NotifivationControl.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Views\AuthorizationWnd.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Views\CreateModuleWnd.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Views\FeedbackWnd.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Views\ForHRSpecialistWnd.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Views\MainWnd.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\App.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\AdaptHER_MarkupCompile.cache
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\AdaptHER_MarkupCompile.lref
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\App.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Pages\AdaptModulesPg.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Pages\AdaptProgramsPg.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Pages\EventsAnalysisPg.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Pages\MainPg.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\UC\ModuleView.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\UC\NotifivationControl.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Views\AuthorizationWnd.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Views\CreateModuleWnd.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Views\FeedbackWnd.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Views\ForHRSpecialistWnd.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\UI\Views\MainWnd.baml
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\AdaptHER.g.resources
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\AdaptHER.Properties.Resources.resources
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\AdaptHER.csproj.GenerateResource.cache
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\AdaptHER.csproj.CoreCompileInputs.cache
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\AdaptHER.csproj.Up2Date
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\AdaptHER.exe
+E:\курсач\AdaptHER\AdaptHER\obj\Debug\AdaptHER.pdb
+F:\к\AdaptHER\AdaptHER\bin\Debug\AdaptHER.exe.config
+F:\к\AdaptHER\AdaptHER\bin\Debug\AdaptHER.exe
+F:\к\AdaptHER\AdaptHER\bin\Debug\AdaptHER.pdb
+F:\к\AdaptHER\AdaptHER\bin\Debug\BouncyCastle.Cryptography.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\itextsharp.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\LiveCharts.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\LiveCharts.Wpf.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Options.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Identity.Client.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\MiniExcel.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\Newtonsoft.Json.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Buffers.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Collections.Immutable.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.ComponentModel.Annotations.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Memory.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Numerics.Vectors.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\BouncyCastle.Cryptography.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\itextsharp.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\LiveCharts.pdb
+F:\к\AdaptHER\AdaptHER\bin\Debug\LiveCharts.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\LiveCharts.Wpf.pdb
+F:\к\AdaptHER\AdaptHER\bin\Debug\LiveCharts.Wpf.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Data.SqlClient.pdb
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Data.SqlClient.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Options.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.Identity.Client.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\Newtonsoft.Json.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Buffers.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Collections.Immutable.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Memory.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Numerics.Vectors.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\к\AdaptHER\AdaptHER\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER\AdaptHER\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER\AdaptHER\obj\Debug\AdaptHER.csproj.AssemblyReference.cache
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Styles\MainStyle.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Styles\Palette.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Pages\AdaptModulesPg.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Pages\AdaptProgramsPg.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Pages\EventsAnalysisPg.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Pages\MainPg.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\UC\ModuleView.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\UC\NotifivationControl.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Views\AuthorizationWnd.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Views\CreateModuleWnd.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Views\FeedbackWnd.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Views\ForHRSpecialistWnd.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Views\MainWnd.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\App.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\к\AdaptHER\AdaptHER\obj\Debug\AdaptHER_MarkupCompile.cache
+F:\к\AdaptHER\AdaptHER\obj\Debug\AdaptHER_MarkupCompile.lref
+F:\к\AdaptHER\AdaptHER\obj\Debug\App.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Pages\AdaptModulesPg.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Pages\AdaptProgramsPg.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Pages\EventsAnalysisPg.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Pages\MainPg.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\UC\ModuleView.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\UC\NotifivationControl.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Views\AuthorizationWnd.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Views\CreateModuleWnd.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Views\FeedbackWnd.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Views\ForHRSpecialistWnd.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\UI\Views\MainWnd.baml
+F:\к\AdaptHER\AdaptHER\obj\Debug\AdaptHER.g.resources
+F:\к\AdaptHER\AdaptHER\obj\Debug\AdaptHER.Properties.Resources.resources
+F:\к\AdaptHER\AdaptHER\obj\Debug\AdaptHER.csproj.GenerateResource.cache
+F:\к\AdaptHER\AdaptHER\obj\Debug\AdaptHER.csproj.CoreCompileInputs.cache
+F:\к\AdaptHER\AdaptHER\obj\Debug\AdaptHER.csproj.Up2Date
+F:\к\AdaptHER\AdaptHER\obj\Debug\AdaptHER.exe
+F:\к\AdaptHER\AdaptHER\obj\Debug\AdaptHER.pdb
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\AdaptHER.exe.config
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\AdaptHER.exe
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\AdaptHER.pdb
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Azure.Core.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Azure.Identity.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\BouncyCastle.Cryptography.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\itextsharp.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\LiveCharts.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\LiveCharts.Wpf.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Bcl.Cryptography.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Data.SqlClient.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Options.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Identity.Client.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\MiniExcel.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Newtonsoft.Json.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Buffers.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.ClientModel.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Collections.Immutable.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.ComponentModel.Annotations.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.IO.FileSystem.AccessControl.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.IO.Pipelines.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Memory.Data.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Memory.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Numerics.Vectors.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Security.AccessControl.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Security.Cryptography.Pkcs.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Security.Principal.Windows.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Text.Encodings.Web.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Text.Json.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.ValueTuple.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Azure.Core.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Azure.Identity.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\BouncyCastle.Cryptography.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\itextsharp.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\LiveCharts.pdb
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\LiveCharts.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\LiveCharts.Wpf.pdb
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\LiveCharts.Wpf.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Bcl.Cryptography.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Data.SqlClient.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Options.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Identity.Client.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\Newtonsoft.Json.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Buffers.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.ClientModel.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Collections.Immutable.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.IO.FileSystem.AccessControl.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.IO.Pipelines.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Memory.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Memory.Data.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Numerics.Vectors.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Security.AccessControl.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Security.Cryptography.Pkcs.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Security.Principal.Windows.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Text.Encodings.Web.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Text.Json.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\System.ValueTuple.xml
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\AdaptHER.csproj.AssemblyReference.cache
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Styles\MainStyle.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Styles\Palette.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Pages\AdaptModulesPg.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Pages\AdaptProgramsPg.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Pages\EventsAnalysisPg.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Pages\MainPg.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\UC\ModuleView.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\UC\NotifivationControl.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Views\AuthorizationWnd.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Views\CreateModuleWnd.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Views\FeedbackWnd.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Views\ForHRSpecialistWnd.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Views\MainWnd.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\App.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\AdaptHER_MarkupCompile.cache
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\AdaptHER_MarkupCompile.lref
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\App.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Pages\AdaptModulesPg.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Pages\AdaptProgramsPg.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Pages\EventsAnalysisPg.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Pages\MainPg.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\UC\ModuleView.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\UC\NotifivationControl.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Views\AuthorizationWnd.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Views\CreateModuleWnd.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Views\FeedbackWnd.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Views\ForHRSpecialistWnd.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Views\MainWnd.baml
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\AdaptHER.g.resources
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\AdaptHER.Properties.Resources.resources
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\AdaptHER.csproj.GenerateResource.cache
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\AdaptHER.csproj.CoreCompileInputs.cache
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\AdaptHER.csproj.Up2Date
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\AdaptHER.exe
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\AdaptHER.pdb
+F:\к\AdaptHER — копия\AdaptHER\obj\Debug\UI\Styles\EmojiList.baml

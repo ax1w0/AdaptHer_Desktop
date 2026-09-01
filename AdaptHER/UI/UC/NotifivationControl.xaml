@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="AdaptHER.UI.UC.NotifivationControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AdaptHER.UI.UC">
+    <Border x:Name="NotificationBorder" CornerRadius="4" Background="{DynamicResource btnClose}" Padding="10" Opacity="0" Height="30" Width="400" Margin="40">
+        <TextBlock x:Name="MessageText" TextWrapping="Wrap" TextAlignment="Center" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Border>
+</UserControl>

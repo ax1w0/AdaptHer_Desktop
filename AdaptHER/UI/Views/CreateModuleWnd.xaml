@@ -1,0 +1,164 @@
+﻿<Window x:Class="AdaptHER.UI.Views.CreateModuleWnd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdaptHER.UI.Views"
+        mc:Ignorable="d"
+        Title="Adapter - Create Request" Height="790" Width="750"
+        WindowStartupLocation="CenterScreen" WindowStyle="None"
+        Background="Transparent" AllowsTransparency="True"
+        ResizeMode="NoResize" FontFamily="Poppins">
+    <Border Background="{DynamicResource PrimaryBackgroundColor}" CornerRadius="8" MouseLeftButtonDown="Border_MouseLeftButtonDown">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="55"/>
+                <RowDefinition Height="25"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="120"/>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0" Background="{DynamicResource WhiteColor}" CornerRadius="7" Margin="15 15 0 15">
+                    <TextBlock VerticalAlignment="Center" Padding=" 20 0">Employee Adaptation Management Application of IT-Company STR</TextBlock>
+                </Border>
+                <StackPanel Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,15,0" Orientation="Horizontal" FlowDirection="RightToLeft" Grid.RowSpan="2">
+                    <Button x:Name="CloseBtn" Style="{DynamicResource NavViewButtonsStyle}" Content="x" Click="CloseBtn_Click" Tag="IsCloseButton"/>
+                    <Button x:Name="RestoreBtn" Style="{DynamicResource NavViewButtonsStyle}" Content="o" Click="RestoreBtn_Click" Margin="10,0" />
+                    <Button x:Name="MinimizeBtn" Style="{DynamicResource NavViewButtonsStyle}" Content="-" Click="MinimizeBtn_Click"/>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Row="1">
+                <TextBlock Margin="20 0" FontWeight="Bold" Foreground="{DynamicResource TextFourthColor}" FontSize="22">Module Development Task:</TextBlock>
+            </Grid>
+            <Border Grid.Row="2" Margin="15" CornerRadius="8" Background="{DynamicResource WhiteColor}">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="75"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="15"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Margin="15 10 0 0">
+                            <Label  Width="200" HorizontalAlignment="Left" VerticalAlignment="Top">Code Name:</Label>
+                            <TextBox x:Name="codeName" Height="25" Text="№01/01/2025-M" VerticalContentAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="2" Margin="0 10 15 15">
+                            <Label  Width="200" HorizontalAlignment="Left" VerticalAlignment="Top">Module Name:</Label>
+                            <TextBox x:Name="name" Height="25" Text="New Module" VerticalContentAlignment="Center"/>
+                        </StackPanel>
+
+                    </Grid>
+
+                    <Grid Grid.Row="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="15"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <Grid Grid.Column="0">
+                            <StackPanel Margin="15 0 0 0" Height="25" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right">
+                                <Label  Width="50" VerticalAlignment="Top">Search:</Label>
+                                <TextBox x:Name="developersSearch" TextWrapping="Wrap" Text="" Width="200" HorizontalAlignment="Right"/>
+                            </StackPanel>
+
+                            <TextBlock Margin="20 5 0 0">Developers:</TextBlock>
+                            <ListBox x:Name="developers" Margin="15 35 0 0" FontSize="13" ScrollViewer.VerticalScrollBarVisibility="Visible" SelectionMode="Multiple">
+                                <ListBox.Template>
+                                    <ControlTemplate TargetType="{x:Type ListBox}">
+                                        <Border CornerRadius="8" BorderThickness="2" BorderBrush="{DynamicResource PrimaryHomingColor}" Background="White">
+                                            <ScrollViewer>
+                                                <ItemsPresenter/>
+                                            </ScrollViewer>
+                                        </Border>
+                                    </ControlTemplate>
+                                </ListBox.Template>
+                            </ListBox>
+                        </Grid>
+
+                        <Grid Grid.Column="2">
+                            <StackPanel Margin="0 0 15 0" Height="25" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right">
+                                <Label  Width="50" VerticalAlignment="Top">Search:</Label>
+                                <TextBox x:Name="agreedSearch" TextWrapping="Wrap" Text="" Width="200" HorizontalAlignment="Right"/>
+                            </StackPanel>
+
+                            <TextBlock Margin="5 5 0 0">Approvers:</TextBlock>
+                            <ListBox x:Name="agreed" Margin="0 35 15 0" FontSize="13" ScrollViewer.VerticalScrollBarVisibility="Visible" SelectionMode="Multiple">
+                                <ListBox.Template>
+                                    <ControlTemplate TargetType="{x:Type ListBox}">
+                                        <Border CornerRadius="8" BorderThickness="2" BorderBrush="{DynamicResource PrimaryHomingColor}" Background="White">
+                                            <ScrollViewer>
+                                                <ItemsPresenter/>
+                                            </ScrollViewer>
+                                        </Border>
+                                    </ControlTemplate>
+                                </ListBox.Template>
+                            </ListBox>
+                        </Grid>
+                    </Grid>
+
+                    <Grid Grid.Row="2">
+                        <StackPanel Margin="0 15 15 0" Height="25" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right">
+                            <Label  Width="50" VerticalAlignment="Top">Search:</Label>
+                            <TextBox x:Name="jobSearch" TextWrapping="Wrap" Text="" Width="200" HorizontalAlignment="Right"/>
+                        </StackPanel>
+
+                        <TextBlock Margin="25 20 0 0">Positions:</TextBlock>
+                        <ListBox x:Name="job" Margin="15 50 15 10" FontSize="13"  ScrollViewer.VerticalScrollBarVisibility="Visible" SelectionMode="Multiple">
+                            <ListBox.Template>
+                                <ControlTemplate TargetType="{x:Type ListBox}">
+                                    <Border CornerRadius="8" BorderThickness="2" BorderBrush="{DynamicResource PrimaryHomingColor}" Background="White">
+                                        <ScrollViewer>
+                                            <ItemsPresenter/>
+                                        </ScrollViewer>
+                                    </Border>
+                                </ControlTemplate>
+                            </ListBox.Template>
+                        </ListBox>
+                    </Grid>
+
+                    <Grid Grid.Row="3">
+                        <TextBlock Margin="25 0">Email Text:</TextBlock>
+                        <TextBox x:Name="letterText" AcceptsReturn="True" FontSize="14" TextWrapping="Wrap" Padding="5" Margin="15 25 15 5" >
+                            Good afternoon, colleagues.
+                  You have been assigned as a developer for the adaptation module. Please review the order and begin work.
+                        </TextBox>
+                    </Grid>
+
+                    <Grid Grid.Row="4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="15"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Margin="15 0 0 0" Grid.Column="0">
+                            <Label Margin="5">Start Date:</Label>
+                            <DatePicker x:Name="dateStart" ></DatePicker>
+                        </StackPanel>
+                        <StackPanel Margin="0 0 15 0" Grid.Column="2">
+                            <Label Margin="5">End Date:</Label>
+                            <DatePicker x:Name="dateEnd"></DatePicker>
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid Grid.Row="5">
+                        <Button x:Name="createButton" Content="Create Module Development Task" Grid.Row="3" Margin="15"/>
+                    </Grid>
+                </Grid>
+            </Border>
+
+        </Grid>
+    </Border>
+</Window>

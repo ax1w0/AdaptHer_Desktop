@@ -1,0 +1,15 @@
+﻿<Application x:Class="AdaptHER.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AdaptHER"
+             StartupUri="UI/Views/AuthorizationWnd.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="UI/Styles/Palette.xaml"/>
+                <ResourceDictionary Source="UI/Styles/MainStyle.xaml"/>
+                <ResourceDictionary Source="/UI/Styles/EmojiList.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
