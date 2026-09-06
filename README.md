@@ -1,5 +1,4 @@
-# AdaptHER 
-## Employee Onboarding Management System
+# AdaptHER. Employee Onboarding Management System
 
 WPF desktop application for managing new employee onboarding in an IT company.
 
